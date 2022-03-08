@@ -86,7 +86,7 @@ export default function Home() {
             <div
               className={`${styles.button} ${styles['button-primary']}`}
               onClick={() => {
-                history.push('/idata/docs/intro');
+                history.push('/idata-doc/docs/intro');
               }}
             >
               马上了解

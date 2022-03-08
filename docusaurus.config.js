@@ -10,8 +10,8 @@ const config = {
   favicon: 'img/favicon.ico',
   url: 'https://zcy-inc.github.io',
   tagline:  'IData是一个现代化的大数据开发管理平台，提供完整的大数据开发流程，关注并聚焦于数据的全链路生命周期，便捷高效的满足大数据开发需求。',
-  baseUrl: '/idata/',
-  projectName: 'idata',
+  baseUrl: '/idata-doc/',
+  projectName: 'idata-doc',
   organizationName: 'zcy-inc',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -35,7 +35,7 @@ const config = {
     navbar: {
       logo: {
         alt: 'idata',
-        src: '/idata/img/logo.svg'
+        src: '/idata-doc/img/logo.svg'
       },
       items: [
       ],
